@@ -2,6 +2,11 @@
 
 First things first, the results are inspired by the video of minutephysics : https://www.youtube.com/watch?v=W2Xb2GFK2yc&t=130s .
 
+## Some results :
+![plot](./img/111.gif)
+Bohmian representation of HCl molecule (With Cl at the center not represented) for the quantum number 111.
+![plot](./img/441.gif)
+Bohmian representation of HCl molecule (With Cl at the center not represented) for the quantum number 441.
 ## How does it work ?
 
 We solve analytically for a harmonic potential. We then proceed to store those data, we then compute the evolution of those particles.
