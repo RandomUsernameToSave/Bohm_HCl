@@ -25,3 +25,5 @@ Your results are stored in pickle files. (They may be large be careful !)
 
 ## Feel free to ask any question.
 I'll post some changes and other uses of the code in the next week. (As you can see, we have A LOT of code not used in this simple application)
+
+Contact me here if needed : clement.dufour@student-cs.fr
