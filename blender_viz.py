@@ -1,7 +1,7 @@
 import bpy
 import numpy as np
 import pickle
-file = open(r"C:\Users\cleme\Desktop\BohmSimulation\particle_sample.pkl",'rb')
+
 file_traj = open(r"C:\Users\cleme\Desktop\BohmSimulation\particle_trajectories.pkl",'rb')
 Samples = pickle.load(file)
 traj = np.asarray(pickle.load(file_traj))
